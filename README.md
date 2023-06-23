@@ -4,8 +4,8 @@
 <p align="left"> <a href="https://twitter.com/zunnun_zihan" target="blank"><img src="https://img.shields.io/twitter/follow/zunnun_zihan?logo=twitter&style=for-the-badge" alt="zunnun_zihan" /></a> </p>
 
 - 📫 Reach me **zunnunislam@gmail.com**
-
-- 📄 Know about me [www.facebook.com/zunnun.zihan](www.facebook.com/zunnun.zihan)
+/*
+- 📄 Know about me [www.facebook.com/zunnun.zihan](www.facebook.com/zunnun.zihan) */
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
